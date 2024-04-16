@@ -1,16 +1,18 @@
 # easyorder
-
+An e-commerce application featuring multiple vendors.
 A new Flutter project.
+Built using
+Flutter framework
+MVVM design architecture
+Flutter Lottie for animations
+Its advantages
+Responsive UI
+Clean Code
+Can add any new features easily
+Easy to adjust colors and fonts
+Ready to integrate with API
+Features 
+Welcome Screen
 
-## Getting Started
+![image](https://github.com/EngNohaIbraheem/EasyOrder/assets/108743395/da9eac66-7f12-4700-af8a-bb5eff23d07e)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
